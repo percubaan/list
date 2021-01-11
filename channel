@@ -148,6 +148,15 @@ ASSP1
 ASSP2
 ASSP3
 ASSP4
+#LIVE1(ASSP1)
+#LIVE2(ASSP2)
+#LIVE3(ASSP3)
+#LIVE4(ASSP4)
+
+NOTA:- ASSP sumber dari luar server kami.
+Sumber terhad sebab isu Copyright EPL.(Bahaya)
+Kemungkinan ASSP akan Lagging sedikit. 
+Lain channel lancar. 
 
 MUSIC
 i Konser
@@ -198,6 +207,7 @@ Atro Citra -free
 Atro BOO -free
 Atro AEC -free
 Atro AOD -free
+Atro Hello -free
 RTM Okey -free
 Ntv7 -free
 8Tv -free
